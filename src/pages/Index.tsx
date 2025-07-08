@@ -441,7 +441,7 @@ const Index = () => {
             <CardContent className="p-8">
               <div className="text-center mb-8">
                 <p className="text-xl text-gray-300 mb-8">
-                  אני מציע יעוץ חינמי בן 30 דקות בן נבחן יחד:
+                  אני מציע יעוץ חינמי בן 30 דקות בו נבחן יחד:
                 </p>
               </div>
 
